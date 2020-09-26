@@ -12,8 +12,6 @@ I have done 2 Projects here by using Python3,OpenCV and YOLOv3
     - ![det3.gif](det3.gif)
 ### 3. OpenCV Fundamentals 101 . Please refer to the below notebooks for a walk arround of the OpenCV-Python Basics.
 - **OPCV1-BasicImgProc.py**
-- **OPCV10-FaceDetWebCam.py**
-- **OPCV11-SaveAVideo.py**
 - **OPCV2-webcam.py**
 - **OPCV3-ResizeNCropin.py**
 - **OPCV4-ShapesNTexts.py**
@@ -22,3 +20,5 @@ I have done 2 Projects here by using Python3,OpenCV and YOLOv3
 - **OPCV7-colorPickerWebCam.py**
 - **OPCV8-ContourDet.py**
 - **OPCV9-FaceDet.py**
+- **OPCV10-FaceDetWebCam.py**
+- **OPCV11-SaveAVideo.py**
