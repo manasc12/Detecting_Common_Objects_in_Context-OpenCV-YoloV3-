@@ -1,5 +1,5 @@
 # ObjectDetection-With-OpenCV-And-YOLOV3
-I have done 2 Projects here by using Python3,OpenCV and YOLOv3
+**I have done 2 Projects here by using Python3,OpenCV and YOLOv3**
 ### 1. Object detection Using YOLOV3, OpenCV and Python, Using a Pre-trained YoloV3-Tiny model 
 - Notebook name: **PROJECT2-YOLOV3-Tiny-On-COCO.py**
 - After the execution I got some of the below results: 
